@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Hellen159
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hellen Fernanda M. de Faria
+- engenharia de software
+- 4 semestre
+- hfmdf@hotmail.com
+________________________
 
-<!---
-Hellen159/Hellen159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
